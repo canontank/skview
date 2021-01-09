@@ -1,5 +1,5 @@
 var imgList = new Array(
-																										'2020-10', '2020-11'
+	'2020-10', '2020-11', '2020-12'
 );
 
 $(document).ready(function() {
